@@ -240,20 +240,53 @@ show_image(cropped_image)
 
 ### (iii) Image shearing
 
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/036899b2-7992-448b-adfe-e9f9b906e786)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/6d098f21-1656-4967-bdd5-3a3162a1337c)
+
+
+
 ### (iv) Image Reflection
 
 #### Reflecting Horizontally
 
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/86db9e42-c4a6-420a-a77e-a0983959fd8a)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/30dd8343-4fdc-4733-9ba0-6ce611f597fe)
+
+
+
 
 #### Reflecting Vertically
 
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/22522898-741a-4987-92e9-b795fcf3824a)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/e8d476e4-e435-475d-bb31-f425fe221eab)
+
+
+
 
 #### Reflecting Horizontally & Vertically
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/54fbaa4c-1cce-4427-80f5-78208b627aa9)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/a728b4f4-2414-455a-8f3f-11863bce8f06)
+
+
+
 
 ### (v) Image Rotation
 
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/af342f4f-a07a-4c77-be9a-86e936eb0b70)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/0932ef7a-11b2-4823-8243-fe5d70459f27)
+
+
+
 ### (vi) Image Cropping
 
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/6745bdf5-126e-4ea9-9525-5f37085dae3e)
+
+![image](https://github.com/niraunjana/IMAGE-TRANSFORMATIONS/assets/119395610/533ecb1a-882c-4717-9a5c-fb4e8d0f2e7b)
 
 
 ## Result: 
